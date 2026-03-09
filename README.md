@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩‍💻 Luz A. Huerta - Cybersecurity Portfolio
 
-<!--
-**luzhuerta/luzhuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenida/o a mi portafolio de Ciberseguridad!
 
-Here are some ideas to get you started:
+Soy Ingeniera Química Industrial en transición al sector de ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Creo que la ciberseguridad no solo trata de bloquear ataques,
+sino de entender cómo funcionan los sistemas para protegerlos mejor."
+
+## 🚀Certificaciones y Formación
+
+- Cisco Certified Support Technician (CCST) Cybersecurity
+- Python Essentials (En progreso)
+
+## 📂Proyectos
+
+### 1. Playbook de Respuesta a Incidentes (SOC)
+Guía que describe los pasos para detectar, analizar y responder a incidentes de seguridad en un SOC.
+
+## 📧Contacto
+
+Email: luzarely2302[at]gmail.com
+
+⚠️ Nota: Este portafolio se encuentra actualmente en construcción.
