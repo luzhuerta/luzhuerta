@@ -18,8 +18,10 @@ sino de entender cómo funcionan los sistemas para protegerlos mejor."
 Guía que describe los pasos para detectar, analizar y responder a incidentes de seguridad en un SOC.
 
 ### Banking Malware Incident Response
-#### https://github.com/luzhuerta/Banking_Malware_Incident_Response/tree/main
 
+Simulación de una investigación SOC para detectar y contener malware en una estación de trabajo dentro de un entorno bancario.
+
+🔗 [Ver proyecto](https://github.com/luzhuerta/Banking_Malware_Incident_Response)
 
 ## 📧Contacto
 
