@@ -17,7 +17,7 @@ sino de entender cómo funcionan los sistemas para protegerlos mejor."
 ### 1. Playbook de Respuesta a Incidentes (SOC)
 Guía que describe los pasos para detectar, analizar y responder a incidentes de seguridad en un SOC.
 
-### Banking Malware Incident Response
+### 1.1 Banking Malware Incident Response
 
 Simulación de una investigación SOC para detectar y contener malware en una estación de trabajo dentro de un entorno bancario.
 
